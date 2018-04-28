@@ -1,12 +1,12 @@
 {
   "port": 3000,
+  "token": "xoxb-354757523124-Z9EXP0gZZE8ZQLt5bLENLF89",
   "mail": {
-    "from": "Name Surname <YOUR MAIL>",
-    "to": "Recepients(can write multiple separating with a comma ',')"
+    "from": "Yutaka Takaguchi <yutaka@cc.okayama-u.ac.jp>",
+    "to": "高口,田嶋')"
   },
   "questions": {
     "default": [
-      "What did you do yesterday?",
       "What are you going to do today?",
       "Did you encounter any problems?"
     ],
